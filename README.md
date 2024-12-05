@@ -27,6 +27,4 @@ Hello! I'm Riddhi, a passionate developer with expertise in **Python** 🐍, **M
 - Email: riddhishah1920@gmail.com
 
 
-[![](https://visitcount.itsvg.in/api?id=RIDDHI554&icon=0&color=0)](https://visitcount.itsvg.in)
-
 
