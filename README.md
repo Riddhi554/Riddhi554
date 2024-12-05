@@ -25,3 +25,8 @@ Hello! I'm Riddhi, a passionate developer with expertise in **Python** 🐍, **M
 ## 💬 Let's Connect!
 - LinkedIn: https://www.linkedin.com/in/riddhi-shah-bab1a0236/
 - Email: riddhishah1920@gmail.com
+
+
+[![](https://visitcount.itsvg.in/api?id=RIDDHI554&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
